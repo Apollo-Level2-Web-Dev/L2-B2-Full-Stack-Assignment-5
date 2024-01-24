@@ -10,7 +10,7 @@ Create Private repo link:
 
 
 
-## Guideline
+## Guideline for Students and Job Holders:
 
 ### **Note:** If you have a tight schedule due to varsity or office commitments, you can approach this assignment step by step by following the guideline below. Please note that this is not a mandatory approach; we are providing you with an idea of how you can manage your time effectively if you have a tight schedule. Feel free to adapt the schedule to best suit your availability and workflow.
 
