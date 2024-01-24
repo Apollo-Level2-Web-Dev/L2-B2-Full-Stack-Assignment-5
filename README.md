@@ -8,11 +8,11 @@ Create Private repo link:
 ### Server side: [https://classroom.github.com/a/D57lPi8P](https://classroom.github.com/a/D57lPi8P)
 
 
+
+
 ## Guideline
 
----
-
-# **Note:** If you have a tight schedule due to varsity or office commitments, you can approach this assignment step by step by following the guideline below. Please note that this is not a mandatory approach; we are providing you with an idea of how you can manage your time effectively if you have a tight schedule. Feel free to adapt the schedule to best suit your availability and workflow.
+### **Note:** If you have a tight schedule due to varsity or office commitments, you can approach this assignment step by step by following the guideline below. Please note that this is not a mandatory approach; we are providing you with an idea of how you can manage your time effectively if you have a tight schedule. Feel free to adapt the schedule to best suit your availability and workflow.
 
 1. **Day 1: Requirement Analysis and Backend Setup (24 Hour)**
     - Dedicate the day to thoroughly understand the requirements.
