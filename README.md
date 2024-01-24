@@ -37,3 +37,8 @@ Create Private repo link:
     - Record a demo video showcasing the functionality.
 
 It's essential to prioritize tasks and stay focused on core functionalities. Regularly update the checklist, commit frequently, and be prepared to make quick decisions to meet the deadline. While this schedule prioritizes completion, maintain code quality and adhere to best practices. Additionally, try not to go to the last date; if possible, submit before the deadline. Best of luck!
+
+### Deadline:
+60 marks: January 28, 2024 11.59 PM
+50 marks: January 29, 2024 11.59 PM
+30 marks: After January 29, 2024 11.59 PM
