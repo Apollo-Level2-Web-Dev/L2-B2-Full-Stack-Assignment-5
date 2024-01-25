@@ -51,7 +51,7 @@ The primary objective of this assignment is to design and implement a comprehens
 -  Implement a comprehensive gift filter system to optimize inventory management. The filter options should cater specifically to gifts and novelty items:
    -  **Filter by Price:** Allow users to set a price range for gifts.
    -  **Filter by Occasion:** Provide options for filtering gifts based on occasions (e.g., birthdays, anniversaries, holidays).
-   -  **Filter by Recipient:** Implement a real-time search functionality for gift recipients to quickly find gifts for a specific person.
+   -  **Filter by Recipient:** Implement a real-time search functionality for gift recipients to quickly find gifts for a specific person (Optional).
    -  **Filter by Category:** Categorize gifts into categories (e.g., home decor, gadgets, accessories) and allow users to filter by their preferred categories.
    -  **Filter by Theme:** Include a filter for gift themes to easily manage gifts with specific themes (e.g., vintage, modern, romantic).
    -  **Filter by Brand:** Allow users to filter gifts based on brands.
